@@ -1,5 +1,7 @@
 The challenge CTF_World basically has a minecraft world uploaded with it in which you have to download the zip file and extract the files from it. Now, if you don't have minecraft, it's best that you install TLauncher from https://tlauncher.org/en/ to play the game.
 
+[CTF_World.zip](https://github.com/Sale7123/CSCCTFv4/files/10368717/CTF_World.zip)
+
 
 Once you've done all that. You need to insert the minecraft world you installed into the save files of the game.
 
