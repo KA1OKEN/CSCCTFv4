@@ -64,7 +64,7 @@ Now we have cheats enabled, just type on the command line:
 
 I wrote sale7123 since it's the account I used on TLauncher.
 
-And now voila!! We have created mode and we can now escape the prison!
+And now voila!! We now have creative mode and we can now escape the prison!
 
 ![Picture13](https://user-images.githubusercontent.com/74425831/211203020-38dba8f5-add8-497e-8459-b3ece741398a.png)
 
